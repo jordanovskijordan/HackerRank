@@ -37,5 +37,3 @@ Example:
   ####
  #####
 */
-
-// Ostava prazno mesto pred celoto pecanjete, zaso nz
